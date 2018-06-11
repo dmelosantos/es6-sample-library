@@ -1,8 +1,7 @@
 {
   "name": "es6-sample-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES6 Sample Library for demonstration of Github tags vs Npm Releases",
-  "main": "index.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint ./src/**.js"
@@ -17,11 +16,9 @@
   ],
   "author": "Daniel Santos",
   "license": "ISC",
-  "directories": {
-    "lib": "./lib"
-  },
+  "main": "index.js",
   "files": [
-    "lib"
+    "index.js"
   ],
   "bugs": {
     "url": "https://github.com/dmelosantos/es6-sample-library/issues"

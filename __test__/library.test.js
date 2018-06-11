@@ -1,4 +1,4 @@
-const library = require('../lib/library');
+const library = require('../index');
 
 describe('Test the calculate distance between coordinate function', () => {
   it('should return 167.45 the distance from this two coordinates', () => {

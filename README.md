@@ -5,6 +5,5 @@ ES6 Sample Library for demonstration of Github tags vs Npm Releases
 
 In Node.js:
 ```js
-let _ = require('library');
-
+const library = require('library');
 ```
