@@ -1,6 +1,6 @@
 {
   "name": "es6-sample-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES6 Sample Library for demonstration of Github tags vs Npm Releases",
   "main": "index.js",
   "scripts": {
