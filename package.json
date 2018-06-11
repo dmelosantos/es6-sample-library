@@ -17,6 +17,12 @@
   ],
   "author": "Daniel Santos",
   "license": "ISC",
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib"
+  ],
   "bugs": {
     "url": "https://github.com/dmelosantos/es6-sample-library/issues"
   },
