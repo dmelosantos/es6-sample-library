@@ -1,6 +1,6 @@
 {
   "name": "es6-sample-library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ES6 Sample Library for demonstration of Github tags vs Npm Releases",
   "scripts": {
     "test": "jest",
@@ -18,8 +18,12 @@
   "license": "ISC",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "lib/*"
   ],
+  "directories": {
+    "lib": "./lib"
+  },
   "bugs": {
     "url": "https://github.com/dmelosantos/es6-sample-library/issues"
   },
